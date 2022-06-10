@@ -13,7 +13,6 @@ const score_Text = document.querySelector(".score_text");
 const save = document.getElementById('save');
 
 
-
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
